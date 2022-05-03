@@ -44,7 +44,7 @@ module.exports = {
 };
 
 
-.prettierrc.js
+# .prettierrc.js
 
 module.exports = {
   semi: true,
